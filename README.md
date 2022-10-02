@@ -8,4 +8,4 @@ The code under this folder is to generate results in Table 1.
 
 # justify_q
 
-The code under this folder is to generate results in Fig. 1.
+The code under this folder is to generate results in Figure 1.
