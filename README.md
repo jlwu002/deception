@@ -1,6 +1,3 @@
-# Deception
-
-
 # GAM-LP
 
 The code under this folder is to generate results in Table 1.
